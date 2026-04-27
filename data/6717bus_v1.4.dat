@@ -1,5 +1,3 @@
-gamma (fraction of the demand of load that can be curtailed) 1
-Pi (investment budget) 100e6
 Sigma (weighting factor) 0.0421
 Sbase: 100 MW
 param: vAng:= 0.6																		
